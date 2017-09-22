@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*
+/**
  * Print all prime numbers between input number interval.
  * @author : Sathira Kittisukmongkol
  */

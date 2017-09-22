@@ -1,6 +1,7 @@
 #include<stdio.h>
 
-/* Check a number is it prime number or armstrong number.
+/** 
+ * Check a number is it prime number or armstrong number.
  * @author : Sathira Kittisukmongkol
  */
 int main() {
