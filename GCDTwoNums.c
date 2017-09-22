@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+/* Find the Greatest Commond Divisor of 2 numbers.
+ * @author : Sathira Kittisukmongkol
+ */
 int FindGCD( int n1 , int n2 ) {
     if( n2 != 0 ) return FindGCD( n2 , n1%n2 ); 
     return n1;

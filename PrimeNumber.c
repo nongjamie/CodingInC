@@ -1,7 +1,8 @@
 #include<stdio.h>
+
 /*
  * Print all prime numbers between input number interval.
- * @Author : Sathira Kittisukmongkol
+ * @author : Sathira Kittisukmongkol
  */
 int firstNumber , secondNumber , count;
 

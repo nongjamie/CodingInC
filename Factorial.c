@@ -2,7 +2,7 @@
 
 /**
  * Factorial
- * Sathira Kittisukmongkol (KU76 SKE14)
+ * @author : Sathira Kittisukmongkol
  */
 int Factorial( int num ) {
     if( num < 0 ) return 0;
