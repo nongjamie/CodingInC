@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<math.h>
 
+/**
+ * Convert binary number to octal number.
+ * @Author : Sathira Kittisukmongkol
+ */
 int binaryToDecimal( int inputNum ) {
     int count = 0;
     int answer = 0;
